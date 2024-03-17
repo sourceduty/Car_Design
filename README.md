@@ -12,5 +12,7 @@ Moreover, Car Design is equipped to offer creative proposals, drawing from a wid
 
 In summary, Car Design serves as a collaborative platform for users to explore and realize their automotive design aspirations, offering a blend of personalized guidance, creative input, and technical support to transform abstract ideas into tangible visual representations.
 
+![Modern Electric Dirt Bike Concept 2](https://github.com/sourceduty/Car_Design/assets/123030236/d4271686-04a2-41a7-a5f7-83612f42621f)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
