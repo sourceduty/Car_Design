@@ -12,8 +12,6 @@ Subsequently, Car Design assists in the actualization of these ideas by generati
 
 Moreover, Car Design is equipped to offer creative proposals, drawing from a wide spectrum of sources including current trends, futuristic concepts, and classic design elements. This capability is particularly beneficial for users seeking inspiration or looking to explore unconventional automotive designs.
 
-In summary, Car Design serves as a collaborative platform for users to explore and realize their automotive design aspirations, offering a blend of personalized guidance, creative input, and technical support to transform abstract ideas into tangible visual representations.
-
 ![Cloud Camo Airplane](https://github.com/sourceduty/Car_Design/assets/123030236/12787153-785a-456a-9048-e150ebb961ba)
 
 While "Car Design" GPT is specially tailored for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.
