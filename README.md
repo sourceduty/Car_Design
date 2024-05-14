@@ -8,11 +8,15 @@ The process commences with a detailed understanding of the user's vision, includ
 
 Subsequently, Car Design assists in the actualization of these ideas by generating a visual representation of the envisioned vehicle. This representation can take various forms, from detailed side profiles to comprehensive top-down views, depending on the user's specifications. The iterative nature of the design process ensures that user feedback is integral to the development of the final image, allowing for modifications and refinements to align closely with the user's expectations.
 
+![Modern Electric Dirt Bike Concept 2](https://github.com/sourceduty/Car_Design/assets/123030236/d4271686-04a2-41a7-a5f7-83612f42621f)
+
 Moreover, Car Design is equipped to offer creative proposals, drawing from a wide spectrum of sources including current trends, futuristic concepts, and classic design elements. This capability is particularly beneficial for users seeking inspiration or looking to explore unconventional automotive designs.
 
 In summary, Car Design serves as a collaborative platform for users to explore and realize their automotive design aspirations, offering a blend of personalized guidance, creative input, and technical support to transform abstract ideas into tangible visual representations.
 
-![Modern Electric Dirt Bike Concept 2](https://github.com/sourceduty/Car_Design/assets/123030236/d4271686-04a2-41a7-a5f7-83612f42621f)
+![Cloud Camo Airplane](https://github.com/sourceduty/Car_Design/assets/123030236/12787153-785a-456a-9048-e150ebb961ba)
+
+While "Car Design" GPT is specially tailored for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.
 
 #
 ### Related Links
