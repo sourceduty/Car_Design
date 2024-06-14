@@ -1,4 +1,4 @@
-![1950's Concept Glass Roof Cadillac Coupe 3](https://github.com/sourceduty/Car_Design/assets/123030236/f01a8ef0-86aa-4cc7-a44f-e45b36f8a63c)
+![1920's Inspired Car Concept](https://github.com/sourceduty/Car_Design/assets/123030236/69a8c19f-630f-4fbc-9556-40e490e8f3eb)
 
 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design) functions as a specialized tool aimed at facilitating the creation of custom car images, catering to a diverse array of user preferences ranging from classic to futuristic vehicle designs. The primary objective is to interpret and materialize the user's envisioned automotive concepts into visually compelling representations, thereby aiding in the visualization of potential design ideas or dream cars.
 
