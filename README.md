@@ -30,6 +30,8 @@ While "Car Design" GPT is specially tailored for assisting with automotive desig
 [House Design](https://github.com/sourceduty/House_Design)
 <br>
 [Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
+<br>
+[Car Analyst](https://github.com/sourceduty/Car_Analyst)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
