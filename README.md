@@ -32,6 +32,8 @@ While "Car Design" GPT is specially tailored for assisting with automotive desig
 [Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
 <br>
 [Car Analyst](https://github.com/sourceduty/Car_Analyst)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
