@@ -1,4 +1,8 @@
-![1920's Inspired Car Concept](https://github.com/sourceduty/Car_Design/assets/123030236/69a8c19f-630f-4fbc-9556-40e490e8f3eb)
+![Weed Truck](https://github.com/user-attachments/assets/f099d71f-283e-43c5-add2-caeb20e09a26)
+
+> Create custom vehicle images using DALL-E 3.
+
+#
 
 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design) functions as a specialized tool aimed at facilitating the creation of custom car images, catering to a diverse array of user preferences ranging from classic to futuristic vehicle designs. The primary objective is to interpret and materialize the user's envisioned automotive concepts into visually compelling representations, thereby aiding in the visualization of potential design ideas or dream cars.
 
@@ -18,7 +22,7 @@ While "Car Design" GPT is specially tailored for assisting with automotive desig
 
 #
 
-![Abandoned Bots Van](https://github.com/sourceduty/Car_Design/assets/123030236/59c8b14a-1be0-4d95-a745-56abbef6c78d)
+![1920's Inspired Car Concept](https://github.com/sourceduty/Car_Design/assets/123030236/69a8c19f-630f-4fbc-9556-40e490e8f3eb)
 
 #
 ### Related Links
