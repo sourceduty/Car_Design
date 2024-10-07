@@ -25,6 +25,10 @@ While "Car Design" GPT is specially tailored for assisting with automotive desig
 ![1920's Inspired Car Concept](https://github.com/sourceduty/Car_Design/assets/123030236/69a8c19f-630f-4fbc-9556-40e490e8f3eb)
 
 #
+
+![Slam](https://github.com/user-attachments/assets/ce92b183-4d8c-4822-a473-632d15f8b2d5)
+
+#
 ### Related Links
 
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
