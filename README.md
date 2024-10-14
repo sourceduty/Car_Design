@@ -1,4 +1,4 @@
-![Weed Truck](https://github.com/user-attachments/assets/f099d71f-283e-43c5-add2-caeb20e09a26)
+![Helitruck](https://github.com/user-attachments/assets/d144d640-18d7-4b22-89af-11743b9293aa)
 
 > Create custom vehicle images using DALL-E 3.
 
@@ -21,12 +21,11 @@ Moreover, Car Design is equipped to offer creative proposals, drawing from a wid
 While "Car Design" GPT is specially tailored for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.
 
 #
-
 ![1920's Inspired Car Concept](https://github.com/sourceduty/Car_Design/assets/123030236/69a8c19f-630f-4fbc-9556-40e490e8f3eb)
-
 #
-
 ![Slam](https://github.com/user-attachments/assets/ce92b183-4d8c-4822-a473-632d15f8b2d5)
+#
+![Weed Truck](https://github.com/user-attachments/assets/f099d71f-283e-43c5-add2-caeb20e09a26)
 
 #
 ### Related Links
