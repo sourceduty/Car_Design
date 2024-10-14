@@ -23,7 +23,7 @@ While "Car Design" GPT is specially tailored for assisting with automotive desig
 #
 ![1920's Inspired Car Concept](https://github.com/sourceduty/Car_Design/assets/123030236/69a8c19f-630f-4fbc-9556-40e490e8f3eb)
 #
-![Slam](https://github.com/user-attachments/assets/ce92b183-4d8c-4822-a473-632d15f8b2d5)
+![Slammed Retro Pickup Truck Lowrider](https://github.com/user-attachments/assets/161cbcd7-7caa-4df2-9db9-b173ee2a90a9)
 #
 ![Weed Truck](https://github.com/user-attachments/assets/f099d71f-283e-43c5-add2-caeb20e09a26)
 
