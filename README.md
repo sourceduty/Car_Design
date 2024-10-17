@@ -18,7 +18,14 @@ Moreover, Car Design is equipped to offer creative proposals, drawing from a wid
 
 ![Cloud Camo Airplane](https://github.com/sourceduty/Car_Design/assets/123030236/12787153-785a-456a-9048-e150ebb961ba)
 
-While "Car Design" GPT is specially tailored for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.
+While "Car Design" GPT is specially tailored for assisting with automotive design, its underlying principles and functionalities can be adapted to support airplane design as well. The knowledge of aerodynamics, materials, and aesthetics involved in creating visually appealing and functional cars can be similarly applied to airplanes. Users seeking to innovate or conceptualize new aircraft can benefit from this adaptation by focusing on specific elements like fuselage shapes, wing configurations, and cabin layouts, much like how they would select features and styles for a car. This cross-application of design skills can foster creativity and generate unique, effective designs in the realm of aviation.''
+
+#
+### Restricted Themes
+
+OpenAI’s content policy limits the depiction of certain countries in potentially sensitive or controversial ways, especially when it involves political themes. For example, countries like North Korea, Iran, and Russia often carry associations with current geopolitical issues, and imagery related to these nations could be perceived as promoting or endorsing particular political stances or ideologies. Depictions of flags, symbols, or government-related content tied to these nations could lead to misunderstandings or unintended interpretations, so OpenAI aims to avoid such portrayals to remain neutral and respectful.
+
+This approach also applies to any themes that involve current political conflicts, such as content related to disputed regions or ongoing international tensions. By avoiding these topics, OpenAI can help maintain a positive and inclusive creative environment. Users are instead encouraged to explore broad cultural inspirations or artistic themes unrelated to specific countries or political issues. This approach fosters an experience centered around creativity, innovation, and universally appealing designs.
 
 #
 ![1920's Inspired Car Concept](https://github.com/sourceduty/Car_Design/assets/123030236/69a8c19f-630f-4fbc-9556-40e490e8f3eb)
