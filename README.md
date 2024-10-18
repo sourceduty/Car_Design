@@ -56,6 +56,8 @@ This approach also applies to any themes that involve current political conflict
 [GOOGIE ART](https://github.com/sourceduty/GOOGIE_ART)
 <br>
 [Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
+<br>
+[Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
