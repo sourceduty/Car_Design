@@ -1,4 +1,5 @@
 ![Lowrider](https://github.com/user-attachments/assets/c0a6c1ef-f207-431c-81de-5bdda721b538)
+![Retro Glass Roof City Bus](https://github.com/user-attachments/assets/51a523a5-de86-4243-bb34-4db1181783f9)
 
 > Create custom vehicle images using DALL-E 3.
 
