@@ -1,4 +1,4 @@
-![Helitruck](https://github.com/user-attachments/assets/d144d640-18d7-4b22-89af-11743b9293aa)
+![Lowrider](https://github.com/user-attachments/assets/c0a6c1ef-f207-431c-81de-5bdda721b538)
 
 > Create custom vehicle images using DALL-E 3.
 
@@ -33,6 +33,8 @@ This approach also applies to any themes that involve current political conflict
 ![Slammed Retro Pickup Truck Lowrider](https://github.com/user-attachments/assets/161cbcd7-7caa-4df2-9db9-b173ee2a90a9)
 #
 ![Weed Truck](https://github.com/user-attachments/assets/f099d71f-283e-43c5-add2-caeb20e09a26)
+#
+![Helitruck](https://github.com/user-attachments/assets/d144d640-18d7-4b22-89af-11743b9293aa)
 
 #
 ### Related Links
