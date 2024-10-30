@@ -36,6 +36,8 @@ This approach also applies to any themes that involve current political conflict
 ![Weed Truck](https://github.com/user-attachments/assets/f099d71f-283e-43c5-add2-caeb20e09a26)
 #
 ![Helitruck](https://github.com/user-attachments/assets/d144d640-18d7-4b22-89af-11743b9293aa)
+#
+![Rusted Car](https://github.com/user-attachments/assets/ca54c9f5-9e4f-4a8e-9325-a52dcefc505e)
 
 #
 ### Related Links
