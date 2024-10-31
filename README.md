@@ -1,5 +1,5 @@
 ![Retro Glass Roof City Bus](https://github.com/user-attachments/assets/51a523a5-de86-4243-bb34-4db1181783f9)
-![Racecar](https://github.com/user-attachments/assets/5d675f4c-c67b-49a0-a6f2-54f4326b97ef)
+![Racecar](https://github.com/user-attachments/assets/953ce532-8676-4952-9996-2f34a60bb49a)
 
 > Create custom vehicle images using DALL-E 3.
 
