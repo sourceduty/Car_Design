@@ -1,5 +1,5 @@
-![Lowrider](https://github.com/user-attachments/assets/c0a6c1ef-f207-431c-81de-5bdda721b538)
 ![Retro Glass Roof City Bus](https://github.com/user-attachments/assets/51a523a5-de86-4243-bb34-4db1181783f9)
+![Racecar](https://github.com/user-attachments/assets/5d675f4c-c67b-49a0-a6f2-54f4326b97ef)
 
 > Create custom vehicle images using DALL-E 3.
 
@@ -38,6 +38,8 @@ This approach also applies to any themes that involve current political conflict
 ![Helitruck](https://github.com/user-attachments/assets/d144d640-18d7-4b22-89af-11743b9293aa)
 #
 ![Rusted Car](https://github.com/user-attachments/assets/ca54c9f5-9e4f-4a8e-9325-a52dcefc505e)
+#
+![Lowrider](https://github.com/user-attachments/assets/c0a6c1ef-f207-431c-81de-5bdda721b538)
 
 #
 ### Related Links
