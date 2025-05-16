@@ -17,6 +17,7 @@ Vehicle maintenance is an ongoing responsibility that ensures safety, efficiency
 #
 
 ![Snowmobile](https://github.com/user-attachments/assets/a7213842-7ccd-4b11-83ab-074436601335)
+![Sourceduty Beach Sweeping Truck](https://github.com/user-attachments/assets/3387b93e-bcc0-4388-8b59-1501dd0d3f1b)
 
 #
 
