@@ -37,6 +37,7 @@ In residential settings, vehicle storage is also influencing architectural trend
 #
 
 ![Snowmobile](https://github.com/user-attachments/assets/a7213842-7ccd-4b11-83ab-074436601335)
+![ALDRIDGE](https://github.com/user-attachments/assets/8886114b-2170-4dce-b858-469d82086ad8)
 ![Sourceduty Beach Sweeping Truck](https://github.com/user-attachments/assets/3387b93e-bcc0-4388-8b59-1501dd0d3f1b)
 
 #
