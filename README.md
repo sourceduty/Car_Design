@@ -16,6 +16,12 @@ Vehicle maintenance is an ongoing responsibility that ensures safety, efficiency
 
 #
 
+![Retro Hovercraft Concept](https://github.com/user-attachments/assets/8e8bc444-2a03-464b-939a-9895417c1898)
+
+[Watercraft Design](https://chatgpt.com/g/g-67af4c73622c8191a3a7c0544ad65575-watercraft-design) is a specialized AI assistant tailored specifically to guide users through the comprehensive process of conceptualizing, engineering, and refining all types of watercraft—from simple recreational boats to high-performance yachts and ultra-luxurious vessels. It integrates deep knowledge across marine engineering, naval architecture, fluid dynamics, ergonomics, materials science, and cutting-edge onboard technologies to deliver expert support at every development stage. Whether a user seeks sleek performance, rugged durability, or opulent comfort, this GPT offers strategic guidance on hull design, propulsion systems, hydrostatics, interior layouts, materials selection, and regulatory compliance, all while factoring in key variables such as intended use, water conditions, fuel efficiency, safety, and environmental impact. It also excels in helping users elevate the onboard experience by incorporating features like spa areas, soundproofing, smart navigation systems, and bespoke interior aesthetics. This GPT functions as both an engineer and a creative partner, ensuring that every detail—from structure to style—aligns with the user's vision and maritime standards.
+
+#
+
 ![Snowmobile](https://github.com/user-attachments/assets/a7213842-7ccd-4b11-83ab-074436601335)
 ![Sourceduty Beach Sweeping Truck](https://github.com/user-attachments/assets/3387b93e-bcc0-4388-8b59-1501dd0d3f1b)
 
@@ -30,3 +36,7 @@ Vehicle maintenance is an ongoing responsibility that ensures safety, efficiency
 [Motorbike Build](https://chatgpt.com/g/g-6770afa002c08191b7c80d3da8463813-motorbike-build)
 <br>
 [Robotics](https://github.com/sourceduty/Robotics)
+<br>
+[Flying Boat & Seaplane](https://chatgpt.com/g/g-679a7b51ce1c81918fb3192193e78275-flying-boat-seaplane)
+<br>
+[Superyacht](https://chatgpt.com/g/g-67723bd03c08819185a19f7a9591f222-superyacht)
