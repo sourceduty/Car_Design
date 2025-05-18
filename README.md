@@ -55,3 +55,5 @@ In residential settings, vehicle storage is also influencing architectural trend
 [Flying Boat & Seaplane](https://chatgpt.com/g/g-679a7b51ce1c81918fb3192193e78275-flying-boat-seaplane)
 <br>
 [Superyacht](https://chatgpt.com/g/g-67723bd03c08819185a19f7a9591f222-superyacht)
+<br>
+[Driver Quiz](https://chatgpt.com/g/g-68298d3c0a0081919a277908019fe314-driver-quiz)
