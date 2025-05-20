@@ -40,12 +40,9 @@ In residential settings, vehicle storage is also influencing architectural trend
 
 An EV chatbot is an intelligent conversational assistant specifically designed for electric vehicles (EVs), providing real-time support, guidance, and interaction to drivers and passengers. It integrates with key vehicle systems such as battery management, navigation, diagnostics, infotainment, and charging infrastructure to deliver personalized, context-aware information and actions. For example, it can help users estimate driving range based on current battery levels, find nearby charging stations, provide maintenance alerts, or control in-car features through voice or text commands. [EV Chatbot](https://chatgpt.com/g/g-682bf337991c81918563e8c08114b660-ev-chatbot) guides users through the entire process of designing and developing EV chatbots. It helps define user goals, select appropriate AI models and APIs, identify integration points with automotive protocols like CAN bus and OBD-II, and design intelligent conversational flows tailored to EV usage scenarios. By using structured multiple-choice prompts, it enables users to build powerful, embedded or cloud-based chatbot systems that enhance the EV experience through smart energy management, real-time assistance, and seamless user interaction.
 
-<br>
-
-![Fail Driver](https://github.com/user-attachments/assets/9bb7cdb4-c489-4ab1-ad73-15ecb42431ab)
-
 #
 
+![Fail Driver](https://github.com/user-attachments/assets/9bb7cdb4-c489-4ab1-ad73-15ecb42431ab)
 ![Snowmobile](https://github.com/user-attachments/assets/a7213842-7ccd-4b11-83ab-074436601335)
 ![Remote Control Modern Car](https://github.com/user-attachments/assets/da36c04a-9cfa-4ffb-8066-5847458bc370)
 ![Sourceduty Beach Sweeping Truck](https://github.com/user-attachments/assets/3387b93e-bcc0-4388-8b59-1501dd0d3f1b)
