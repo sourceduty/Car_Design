@@ -42,7 +42,7 @@ An EV chatbot is an intelligent conversational assistant specifically designed f
 
 #
 
-![Drive](https://github.com/user-attachments/assets/5f213f20-15ab-40bf-82c5-cf16a337f39d)
+![Drive](https://github.com/user-attachments/assets/2a4e5398-3cf9-41e8-8e9d-1b6868ffe88f)
 
 [Performance Tool](https://chatgpt.com/g/g-682f433cf320819195a11b2df35c073a-performance-tool) was made to optimize the performance of both gas and electric vehicles through a set of diagnostic and adjustment commands. It covers a wide range of vehicle systems, providing users with the ability to fine-tune and monitor various performance metrics for their vehicles. For gas-powered vehicles, the tool offers commands for adjusting components like turbochargers, air-fuel ratios, ignition coils, and fuel injectors, among others. It can also monitor exhaust emissions, engine load, oil temperature, and spark plug gap, ensuring that the engine operates efficiently. For electric vehicles, it supports real-time monitoring of the battery's state of charge, battery health, motor controller performance, and electric motor temperature. The tool also provides the ability to adjust regenerative braking, charging parameters, and optimize drive modes. For hybrid vehicles, it offers combined diagnostics, optimizing the interaction between the gas engine and electric motor, adjusting transition points, and monitoring both systems to ensure peak efficiency. Essentially, the GPT helps vehicle owners achieve optimal performance, efficiency, and longevity by diagnosing issues, adjusting settings, and monitoring key parameters for both gas and electric powertrains.
 
