@@ -71,3 +71,5 @@ An EV chatbot is an intelligent conversational assistant specifically designed f
 [Superyacht](https://chatgpt.com/g/g-67723bd03c08819185a19f7a9591f222-superyacht)
 <br>
 [Driver Quiz](https://chatgpt.com/g/g-68298d3c0a0081919a277908019fe314-driver-quiz)
+<br>
+[SES](https://github.com/sourceduty/Self-Excited_Motor)
