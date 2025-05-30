@@ -4,13 +4,13 @@
 
 <br>
 
-| Rating | Normality     | Weirdness       | Visual Pain Level |
-|----------|---------------|-----------------|-------------------|
-| ⭐⭐⭐⭐⭐      | High          | None            | 0/10              |
-| ⭐⭐⭐⭐       | Moderate      | Slight          | 2/10              |
-| ⭐⭐⭐      | Low           | Noticeable      | 5/10              |
-| ⭐⭐     | Very Low      | High            | 8/10              |
-| ⭐    | Nonexistent   | Maxed Out       | 10/10           |
+| Rating   | Normality     | Weirdness       | Visual Pain Level | Popularity     | Usability         |
+|----------|---------------|-----------------|-------------------|----------------|--------------------|
+| ⭐⭐⭐⭐⭐   | High          | None            | 0/10              | Very High      | Excellent          |
+| ⭐⭐⭐⭐    | Moderate      | Slight          | 2/10              | High           | Good               |
+| ⭐⭐⭐     | Low           | Noticeable      | 5/10              | Moderate       | Acceptable         |
+| ⭐⭐      | Very Low      | High            | 8/10              | Low            | Challenging        |
+| ⭐       | Nonexistent   | Maxed Out       | 10/10             | Very Low       | Barely Functional  |
 
 #
 
