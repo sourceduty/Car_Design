@@ -6,11 +6,11 @@
 
 | Rating | Normality     | Weirdness       | Visual Pain Level |
 |----------|---------------|-----------------|-------------------|
-| ⭐        | High          | None            | 0/10              |
-| ⭐⭐       | Moderate      | Slight          | 2/10              |
+| ⭐⭐⭐⭐⭐      | High          | None            | 0/10              |
+| ⭐⭐⭐⭐       | Moderate      | Slight          | 2/10              |
 | ⭐⭐⭐      | Low           | Noticeable      | 5/10              |
-| ⭐⭐⭐⭐     | Very Low      | High            | 8/10              |
-| ⭐⭐⭐⭐⭐    | Nonexistent   | Maxed Out       | 10/10           |
+| ⭐⭐     | Very Low      | High            | 8/10              |
+| ⭐    | Nonexistent   | Maxed Out       | 10/10           |
 
 #
 
