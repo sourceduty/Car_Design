@@ -4,9 +4,7 @@
 
 <br>
 
-🚗 Ugly-O-Meter: 5-Star Roast Scale
-
-| ⭐ Rating | Normality     | Weirdness       | Visual Pain Level |
+| Rating | Normality     | Weirdness       | Visual Pain Level |
 |----------|---------------|-----------------|-------------------|
 | ⭐        | High          | None            | 0/10              |
 | ⭐⭐       | Moderate      | Slight          | 2/10              |
