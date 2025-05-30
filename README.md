@@ -48,7 +48,7 @@ An EV chatbot is an intelligent conversational assistant specifically designed f
 
 #
 
-![NASCAR Geek](https://github.com/user-attachments/assets/934d451e-1ace-4aee-b537-da1af3b404f4)
+![NASCAR Background](https://github.com/user-attachments/assets/fbbe8fca-637f-44b6-961e-e0ea55a25b02)
 
 [NASCAR Geek](https://chatgpt.com/g/g-68313c0054f081918ee0ef39903daeab-nascar-geek) is a race analysis tool that serves to assist fans, race teams, and analysts by providing in-depth insights and actionable data related to various aspects of NASCAR races. It offers users the ability to access a wide range of race data, including lap times, car performance, driver statistics, and race results, allowing them to break down trends, compare driver performances, and simulate race scenarios. By analyzing tire performance, fuel usage, pit stop efficiency, and even weather and track conditions, this tool can help optimize strategies for race teams and enhance the fan experience. Additionally, the GPT can track season standings, evaluate historical car performance, and calculate average speeds for specific tracks, offering a thorough understanding of both current and historical racing dynamics. It allows users to dive deep into the nuances of race strategies, giving them the ability to make more informed predictions, adjustments, and evaluations related to the sport of NASCAR.
 
