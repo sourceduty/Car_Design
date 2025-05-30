@@ -2,6 +2,20 @@
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) was made to assist users in creating and visualizing custom car images tailored to their preferences. It leverages creative automotive design expertise to guide users through a step-by-step process of customizing a car, ensuring the design reflects the user's unique style and ideas. Whether it's adjusting the color, body shape, or adding special features like spoilers, decals, or custom wheels, this GPT provides a personalized experience. The user is encouraged to express their desires, and the system uses that input to generate visual representations of their ideal vehicle, incorporating the latest trends and design elements from the automotive world. With a friendly and enthusiastic tone, Car Design ensures that each user feels involved in the creative process, helping them refine their vision and transform it into a visually stunning car concept. It’s a tool that merges technology with automotive passion, offering a fun and engaging way for users to explore their design ideas.
 
+<br>
+
+```
+🚗 Ugly-O-Meter: 5-Star Roast Scale
+
+| ⭐ Rating | Normality     | Weirdness       | Visual Pain Level |
+|----------|---------------|-----------------|-------------------|
+| ⭐        | High          | None            | 0/10              |
+| ⭐⭐       | Moderate      | Slight          | 2/10              |
+| ⭐⭐⭐      | Low           | Noticeable      | 5/10              |
+| ⭐⭐⭐⭐     | Very Low      | High            | 8/10              |
+| ⭐⭐⭐⭐⭐    | Nonexistent   | Maxed Out       | 10/10           |
+```
+
 #
 
 ![Orange Beaver](https://github.com/user-attachments/assets/b69b842f-e199-4048-b6ab-d4fc8b6475d8)
