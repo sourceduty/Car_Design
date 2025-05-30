@@ -54,6 +54,8 @@ An EV chatbot is an intelligent conversational assistant specifically designed f
 
 Futuristic off-road vehicles combine industrial strength with sleek, conceptual design. This depicted stainless sphere vehicle is supported by four massive, mud-caked tractor wheels, suggesting it’s built for extreme terrain and rural exploration. Each wheel is attached via reinforced suspension arms, offering both stability and flexibility across uneven ground. Set against a backdrop of blue skies and lush greenery, the contrast between the high-tech, reflective surface and the rugged, earthy wheels presents a striking fusion of nature and machine.
 
+[Vehicle Roast](https://chatgpt.com/g/g-0RKULFLG9-vehicle-roast) is your go-to source for hilariously brutal, yet light-hearted critiques of any vehicle you throw its way. Whether it's a rust-bucket sedan, a wannabe luxury SUV, or a motorcycle that thinks it's cooler than it is, this GPT specializes in delivering witty, sarcastic, and over-the-top roasts that poke fun at design quirks, performance fails, and absurd features. It's all about entertaining, never offending—think of it as a comedy roast for cars, trucks, and everything in between. Even the most impressive rides aren't safe from a little tongue-in-cheek mockery, because let's face it—every vehicle has something worth clowning on.
+
 #
 
 [House Design](https://github.com/sourceduty/House_Design)
