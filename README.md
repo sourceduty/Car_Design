@@ -1,4 +1,6 @@
-![Field Car](https://github.com/user-attachments/assets/aa7df1fd-84a7-4ac0-ae3e-085b184ca4f1)
+![Stainless Off-Road Vehicle Concept](https://github.com/user-attachments/assets/eb641032-5492-4034-8558-7c17cfb91995)
+
+Futuristic off-road vehicles combine industrial strength with sleek, conceptual design. This depicted stainless sphere vehicle is supported by four massive, mud-caked tractor wheels, suggesting it’s built for extreme terrain and rural exploration. Each wheel is attached via reinforced suspension arms, offering both stability and flexibility across uneven ground. Set against a backdrop of blue skies and lush greenery, the contrast between the high-tech, reflective surface and the rugged, earthy wheels presents a striking fusion of nature and machine.
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) was made to assist users in creating and visualizing custom car images tailored to their preferences. It leverages creative automotive design expertise to guide users through a step-by-step process of customizing a car, ensuring the design reflects the user's unique style and ideas. Whether it's adjusting the color, body shape, or adding special features like spoilers, decals, or custom wheels, this GPT provides a personalized experience. The user is encouraged to express their desires, and the system uses that input to generate visual representations of their ideal vehicle, incorporating the latest trends and design elements from the automotive world. With a friendly and enthusiastic tone, Car Design ensures that each user feels involved in the creative process, helping them refine their vision and transform it into a visually stunning car concept. It’s a tool that merges technology with automotive passion, offering a fun and engaging way for users to explore their design ideas.
 
@@ -60,9 +62,7 @@ An EV chatbot is an intelligent conversational assistant specifically designed f
 
 #
 
-![Stainless Off-Road Vehicle Concept](https://github.com/user-attachments/assets/eb641032-5492-4034-8558-7c17cfb91995)
-
-Futuristic off-road vehicles combine industrial strength with sleek, conceptual design. This depicted stainless sphere vehicle is supported by four massive, mud-caked tractor wheels, suggesting it’s built for extreme terrain and rural exploration. Each wheel is attached via reinforced suspension arms, offering both stability and flexibility across uneven ground. Set against a backdrop of blue skies and lush greenery, the contrast between the high-tech, reflective surface and the rugged, earthy wheels presents a striking fusion of nature and machine.
+![1950's Concept Glass Roof Cadillac Coupe 3](https://github.com/user-attachments/assets/6746c0dc-b101-4531-adae-22a7f6787d9e)
 
 [Vehicle Roast](https://chatgpt.com/g/g-0RKULFLG9-vehicle-roast) is your go-to source for hilariously brutal, yet light-hearted critiques of any vehicle you throw its way. Whether it's a rust-bucket sedan, a wannabe luxury SUV, or a motorcycle that thinks it's cooler than it is, this GPT specializes in delivering witty, sarcastic, and over-the-top roasts that poke fun at design quirks, performance fails, and absurd features. It's all about entertaining, never offending—think of it as a comedy roast for cars, trucks, and everything in between. Even the most impressive rides aren't safe from a little tongue-in-cheek mockery, because let's face it—every vehicle has something worth clowning on.
 
