@@ -1,4 +1,4 @@
-![Stainless Off-Road Vehicle Concept](https://github.com/user-attachments/assets/eb641032-5492-4034-8558-7c17cfb91995)
+![Luxury Car Storage Platform](https://github.com/user-attachments/assets/800b15b0-b08f-40b6-8fa6-35ae51ded49c)
 
 Futuristic off-road vehicles combine industrial strength with sleek, conceptual design. This depicted stainless sphere vehicle is supported by four massive, mud-caked tractor wheels, suggesting it’s built for extreme terrain and rural exploration. Each wheel is attached via reinforced suspension arms, offering both stability and flexibility across uneven ground. Set against a backdrop of blue skies and lush greenery, the contrast between the high-tech, reflective surface and the rugged, earthy wheels presents a striking fusion of nature and machine.
 
