@@ -64,9 +64,9 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 
 #
 
-![Hotshot](https://github.com/user-attachments/assets/5ffa20d6-ec3c-410e-baed-ed42931401bd)
+![OBD2 Guage](https://github.com/user-attachments/assets/ad7bd190-dfc5-4201-91c6-9104b6732312)
 
-[Vehicle Hotshot](https://chatgpt.com/g/g-684b844bffa881919d0856731b5c3829-vehicle-hotshot) specializes in generating innovative and practical ideas for assistive vehicle driving solutions across air, land, and water. Its primary focus is on enhancing accessibility, safety, and ease of use for individuals with disabilities or unique mobility needs. Whether users are interested in concepts like wheelchair-accessible cars, voice-activated marine vessels, AI-assisted drones, or exoskeleton-enhanced mobility units, Vehicle Hotshot combines human-centered design, engineering principles, and emerging technologies to deliver inclusive and feasible solutions. It also helps refine user-submitted ideas, suggests visual diagrams, recommends materials and components, and highlights real-world regulatory or implementation challenges.
+[OBD2 Guage](https://chatgpt.com/g/g-6855de6d33608191819c430a23a9cfb8-obd2-guage) was developed to create digital OBD2 performance gauges for vehicles. It allows users to monitor various vehicle parameters, such as engine RPM, throttle position, fuel pressure, and more, in real-time. By utilizing the OBD2 protocol, the GPT processes live data from the vehicle’s onboard system and presents it in an intuitive, visually appealing way, using digital displays, analog-style dials, or graphs. The interface can be customized to suit different vehicles, with features like color-coded performance indicators, alarms for critical thresholds, and data tracking for performance analysis. The system also caters to both casual users and advanced enthusiasts by providing customizable options and the ability to export data for further analysis.
 
 #
 
@@ -85,3 +85,5 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 [Driver Quiz](https://chatgpt.com/g/g-68298d3c0a0081919a277908019fe314-driver-quiz)
 <br>
 [SES](https://github.com/sourceduty/Self-Excited_Motor)
+<br>
+[Vehicle Hotshot](https://chatgpt.com/g/g-684b844bffa881919d0856731b5c3829-vehicle-hotshot) 
