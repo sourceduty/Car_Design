@@ -91,3 +91,5 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 [SES](https://github.com/sourceduty/Self-Excited_Motor)
 <br>
 [Vehicle Hotshot](https://chatgpt.com/g/g-684b844bffa881919d0856731b5c3829-vehicle-hotshot) 
+<br>
+[Driving Equip](https://chatgpt.com/g/g-685b4e6823808191a94270f91431c9d1-driving-equip)
