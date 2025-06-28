@@ -68,7 +68,7 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 
 #
 
-![OBD2 Guage](https://github.com/user-attachments/assets/ad7bd190-dfc5-4201-91c6-9104b6732312)
+![Gauge](https://github.com/user-attachments/assets/9983cb5f-a1ca-4cb0-abdf-38f3a61d1cc4)
 
 [OBD2 Guage](https://chatgpt.com/g/g-6855de6d33608191819c430a23a9cfb8-obd2-guage) was developed to create digital OBD2 performance gauges for vehicles. It allows users to monitor various vehicle parameters, such as engine RPM, throttle position, fuel pressure, and more, in real-time. By utilizing the OBD2 protocol, the GPT processes live data from the vehicle’s onboard system and presents it in an intuitive, visually appealing way, using digital displays, analog-style dials, or graphs. The interface can be customized to suit different vehicles, with features like color-coded performance indicators, alarms for critical thresholds, and data tracking for performance analysis. The system also caters to both casual users and advanced enthusiasts by providing customizable options and the ability to export data for further analysis.
 
