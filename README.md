@@ -93,3 +93,5 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 [Vehicle Hotshot](https://chatgpt.com/g/g-684b844bffa881919d0856731b5c3829-vehicle-hotshot) 
 <br>
 [Driving Equip](https://chatgpt.com/g/g-685b4e6823808191a94270f91431c9d1-driving-equip)
+<br>
+[Scooter Toot](https://chatgpt.com/g/g-685f7e236bbc8191908fbf853b19a06e-scooter-toot)
