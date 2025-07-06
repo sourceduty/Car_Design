@@ -1,4 +1,4 @@
-![Cars](https://github.com/user-attachments/assets/f3f21c9e-5f86-4439-8cbd-405edd223d9c)
+![Cars](https://github.com/user-attachments/assets/0d56644d-b569-491e-b11c-3024e25a6cb4)
 
 Futuristic off-road vehicles combine industrial strength with sleek, conceptual design. This depicted stainless sphere vehicle is supported by four massive, mud-caked tractor wheels, suggesting it’s built for extreme terrain and rural exploration. Each wheel is attached via reinforced suspension arms, offering both stability and flexibility across uneven ground. Set against a backdrop of blue skies and lush greenery, the contrast between the high-tech, reflective surface and the rugged, earthy wheels presents a striking fusion of nature and machine.
 
