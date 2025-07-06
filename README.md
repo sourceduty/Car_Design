@@ -1,10 +1,10 @@
-![Luxury Car Storage Platform](https://github.com/user-attachments/assets/800b15b0-b08f-40b6-8fa6-35ae51ded49c)
+![Cars](https://github.com/user-attachments/assets/f3f21c9e-5f86-4439-8cbd-405edd223d9c)
 
 Futuristic off-road vehicles combine industrial strength with sleek, conceptual design. This depicted stainless sphere vehicle is supported by four massive, mud-caked tractor wheels, suggesting it’s built for extreme terrain and rural exploration. Each wheel is attached via reinforced suspension arms, offering both stability and flexibility across uneven ground. Set against a backdrop of blue skies and lush greenery, the contrast between the high-tech, reflective surface and the rugged, earthy wheels presents a striking fusion of nature and machine.
 
 #
 
-![One Star Car](https://github.com/user-attachments/assets/0f2eda67-ce61-4b05-b790-d8c68f4c8257)
+![Luxury Car Storage Platform](https://github.com/user-attachments/assets/800b15b0-b08f-40b6-8fa6-35ae51ded49c)
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) was made to assist users in creating and visualizing custom car images tailored to their preferences. It leverages creative automotive design expertise to guide users through a step-by-step process of customizing a car, ensuring the design reflects the user's unique style and ideas. Whether it's adjusting the color, body shape, or adding special features like spoilers, decals, or custom wheels, this GPT provides a personalized experience. The user is encouraged to express their desires, and the system uses that input to generate visual representations of their ideal vehicle, incorporating the latest trends and design elements from the automotive world. With a friendly and enthusiastic tone, Car Design ensures that each user feels involved in the creative process, helping them refine their vision and transform it into a visually stunning car concept. It’s a tool that merges technology with automotive passion, offering a fun and engaging way for users to explore their design ideas.
 
