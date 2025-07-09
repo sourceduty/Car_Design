@@ -1,6 +1,6 @@
 ![Lambo Jump](https://github.com/user-attachments/assets/708fb5f1-7a78-4045-96a5-380d14d2f894)
 
-Futuristic off-road vehicles combine industrial strength with sleek, conceptual design. This depicted stainless sphere vehicle is supported by four massive, mud-caked tractor wheels, suggesting it’s built for extreme terrain and rural exploration. Each wheel is attached via reinforced suspension arms, offering both stability and flexibility across uneven ground. Set against a backdrop of blue skies and lush greenery, the contrast between the high-tech, reflective surface and the rugged, earthy wheels presents a striking fusion of nature and machine.
+[Supercar Design](https://chatgpt.com/g/g-686ca7a650c48191b68c67c54dd20cd8-supercar-design) is a custom GPT that specializes in creating and engineering custom supercar concepts using a detailed step-by-step process. It assists users in developing unique and cutting-edge supercar designs by focusing on elements like aerodynamics, materials, proportions, and aesthetics. The GPT guides users through decisions about the car's body shape, performance features, color schemes, and advanced technologies such as hybrid or electric powertrains. Using image generation, it can then bring these design concepts to life, offering a visual representation of the car from multiple angles with realistic textures, lighting, and shadows. This process helps users refine their vision for a high-performance, visually striking supercar.
 
 #
 
