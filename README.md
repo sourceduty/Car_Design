@@ -1,9 +1,3 @@
-![Lambo Jump](https://github.com/user-attachments/assets/708fb5f1-7a78-4045-96a5-380d14d2f894)
-
-[Supercar Design](https://chatgpt.com/g/g-686ca7a650c48191b68c67c54dd20cd8-supercar-design) is a custom GPT that specializes in creating and engineering custom supercar concepts using a detailed step-by-step process. It assists users in developing unique and cutting-edge supercar designs by focusing on elements like aerodynamics, materials, proportions, and aesthetics. The GPT guides users through decisions about the car's body shape, performance features, color schemes, and advanced technologies such as hybrid or electric powertrains. Using image generation, it can then bring these design concepts to life, offering a visual representation of the car from multiple angles with realistic textures, lighting, and shadows. This process helps users refine their vision for a high-performance, visually striking supercar.
-
-#
-
 ![Luxury Car Storage Platform](https://github.com/user-attachments/assets/800b15b0-b08f-40b6-8fa6-35ae51ded49c)
 
 [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design) was made to assist users in creating and visualizing custom car images tailored to their preferences. It leverages creative automotive design expertise to guide users through a step-by-step process of customizing a car, ensuring the design reflects the user's unique style and ideas. Whether it's adjusting the color, body shape, or adding special features like spoilers, decals, or custom wheels, this GPT provides a personalized experience. The user is encouraged to express their desires, and the system uses that input to generate visual representations of their ideal vehicle, incorporating the latest trends and design elements from the automotive world. With a friendly and enthusiastic tone, Car Design ensures that each user feels involved in the creative process, helping them refine their vision and transform it into a visually stunning car concept. It’s a tool that merges technology with automotive passion, offering a fun and engaging way for users to explore their design ideas.
@@ -17,6 +11,12 @@
 | ⭐⭐⭐     | Low           | Noticeable      | 5/10              | Moderate       | Acceptable         |
 | ⭐⭐      | Very Low      | High            | 8/10              | Low            | Challenging        |
 | ⭐       | Nonexistent   | Maxed Out       | 10/10             | Very Low       | Barely Functional  |
+
+#
+
+![Lambo Jump](https://github.com/user-attachments/assets/708fb5f1-7a78-4045-96a5-380d14d2f894)
+
+[Supercar Design](https://chatgpt.com/g/g-686ca7a650c48191b68c67c54dd20cd8-supercar-design) is a custom GPT that specializes in creating and engineering custom supercar concepts using a detailed step-by-step process. It assists users in developing unique and cutting-edge supercar designs by focusing on elements like aerodynamics, materials, proportions, and aesthetics. The GPT guides users through decisions about the car's body shape, performance features, color schemes, and advanced technologies such as hybrid or electric powertrains. Using image generation, it can then bring these design concepts to life, offering a visual representation of the car from multiple angles with realistic textures, lighting, and shadows. This process helps users refine their vision for a high-performance, visually striking supercar.
 
 #
 
