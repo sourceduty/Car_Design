@@ -115,3 +115,5 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 [Ionic Vehicle](https://chatgpt.com/g/g-68625e2a60708191bd806badad83fd25-ionic-vehicle)
 <br>
 [Automotive Sci-Fi](https://chatgpt.com/g/g-686b3da6319881918228d9f565930191-automotive-sci-fi)
+<br>
+[V2V](https://chatgpt.com/g/g-686f2da038008191a9838c9c88d2620c-vehicle-to-vehicle-v2v)
