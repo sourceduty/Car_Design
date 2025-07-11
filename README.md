@@ -91,7 +91,7 @@ Also, similarly, [OBD2 Performance](https://chatgpt.com/g/g-684648cb9b18819185a1
 [Vehicle Hotshot](https://chatgpt.com/g/g-684b844bffa881919d0856731b5c3829-vehicle-hotshot) is designed to help users create innovative and unique vehicle concepts that can operate across air, land, and water. It engages users through a series of questions to understand their preferences, intended use cases, and desired features for the vehicle, such as the environment, speed, fuel efficiency, and target audience. By combining imaginative thinking with practical engineering possibilities, the GPT provides creative suggestions for vehicles that could incorporate futuristic technologies like autonomous driving, hybrid propulsion, and multi-modal capabilities. Whether for recreational, commercial, or military purposes, this GPT inspires users to explore new ideas and think outside the box for vehicles that adapt to diverse terrains and scenarios.
 
 #
-![Custom](https://github.com/user-attachments/assets/5dc5bbdb-0b94-40b6-a84c-b9630ede0fd6)
+![Old Car](https://github.com/user-attachments/assets/7328dd86-169b-4329-893e-187e82239a07)
 #
 
 [House Design](https://github.com/sourceduty/House_Design)
